@@ -5,6 +5,14 @@ This is a guide on all the different Arduino's
  
  The Arduino uno is the most common Arduino because it has a normal amount of IO. Also there is no need to solder.
 
+ The Leonardo is almost like the uno but can be used as a hid device you can use it as a game pad or such. 
+
+ The Mega 2560 is a uno with more IO can be use full is you need a lot of leds and such but be mindful that you could have so much code that you cant use all of it.
+
+ The Micro is good to use on a breadboard and is compact
+
+The Due also has a lot of IO has more memory than the Mega 2560
+
 | Name                        | UNO        | Leonardo   | Mega 2560  | Micro      | Due         |
 | --------------------------- | ---------- | ---------- | ---------- | ---------- | ----------- |
 | MICROCONTROLLER             | ATmega328P | ATmega32u4 | ATmega2560 | ATmega32U4 | AT91SAM3X8E |
