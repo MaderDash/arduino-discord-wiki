@@ -1,21 +1,20 @@
-# Arduino Buyers Guide
-  
+# Arduino Buyers Guide  | [HOME](README.md) |
 
-This is a guide on all the different Arduino's
- 
- The Arduino uno is the most common Arduino because it has a normal amount of IO. Also there is no need to solder.
+### This is a guide on all the different Arduinos
 
- The Leonardo is almost like the uno but can be used as a hid device you can use it as a game pad or such.
+### The Arduino Uno is the most common Arduino because it has a normal amount of IO. Also, there is no need to solder.
 
- The Mega 2560 is a uno with more IO can be use full is you need a lot of leds and such but be mindful that you could have so much code that you cant use all of it.
+### The Leonardo is almost like the Uno but can be used as a hid device you can use it as a gamepad or such.
 
- The Micro is good to use on a breadboard and is compact this has the same chip as the leonardo.
+### The Mega 2560 is an Uno with more IO that can be used fully if you need a lot of LEDs and such but be mindful that you could have so much code that you cant use all of it.
 
-The Due also has a lot of IO has more memory than the Mega 2560.
+### The Micro is good to use on a breadboard and is compact this has the same chip as the Leonardo.
 
-The nano has the same chip as the uno so can be used in a final product if a uno worked just in a smaller package.
+### The Due also has a lot of IO has more memory than the Mega 2560.
 
-| Name                        | UNO        | Leonardo   | Mega 2560  | Micro      | Due         | nano      |
+### The nano has the same chip as the Uno so can be used in a final product if an Uno worked just in a smaller package.
+
+| Name                        | [UNO](https://store.arduino.cc/products/arduino-uno-rev3)        | [Leonardo](https://store.arduino.cc/products/arduino-leonardo-with-headers)   | [Mega 2560](https://store.arduino.cc/products/arduino-mega-2560-rev3)  | [Micro](https://store.arduino.cc/products/arduino-micro)      | [Due](https://store.arduino.cc/products/arduino-due)         | nano      |
 | --------------------------- | ---------- | ---------- | ---------- | ---------- | ----------- | --------- |
 | MICROCONTROLLER             | ATmega328P | ATmega32u4 | ATmega2560 | ATmega32U4 | AT91SAM3X8E | ATmega328 |
 | OPERATING VOLTAGE           | 5V         | 5V         | 5V         | 5V         | 3.3V        | 5 V       |
@@ -34,3 +33,4 @@ The nano has the same chip as the uno so can be used in a final product if a uno
 | LENGTH                      | 68.6 mm    | 68.6 mm    | 101.52 mm  | 48 mm      | 101.52 mm   | 18 mm     |
 | WIDTH                       | 53.4 mm    | 53.3 mm    | 53.3 mm    | 18 mm      | 53.3 mm     | 45 mm     |
 | WEIGHT                      | 25 g       | 20 g       | 37 g       | 13 g       | 36 g        | 7 g       |
+
