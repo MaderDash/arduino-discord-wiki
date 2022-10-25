@@ -24,6 +24,9 @@ wireless links).*
 
 
 # What, then, is Programming?
+
+[Table of Contents](#table-of-contents)
+
 #### Introduction for Beginners: What is a Computer Language?
 
 From Leo Brodie:
@@ -423,7 +426,7 @@ crudding it up with a `Mr. Obvious` announcement such as
 
 
 
-## Psuedocode
+## Pseudocode
 
 [Table of Contents](#table-of-contents)
 
@@ -441,24 +444,24 @@ its *development*.
 
 
 # DRAFT ONLY - INCOMPLETE
-#### Tue 25 Oct 21:38:03 UTC 2022 - timestamp only occasionally maintained ;)
+#### Tue 25 Oct 22:36:03 UTC 2022 - timestamp only occasionally maintained ;)
 
 # Table of Contents
 =================
 
 * [Basics of Programming | <a href="README.md">HOME</a> |](#basics-of-programming--home-)
-* [What is Programming?](#what-is-programming)
-* [Scenario: potato-chip counting machine](#scenario-potato-chip-counting-machine)
+* [What is Programming?](#basics-of-programming--home-)
+* [Scenario: potato-chip counting machine](#basics-of-programming--home-)
 * [What, then, is Programming?](#what-then-is-programming)
-* [Introduction for Beginners: What is a Computer Language?](#introduction-for-beginners-what-is-a-computer-language)
+* [Introduction for Beginners: What is a Computer Language?](#what-then-is-programming)
 * [Nuts and Bolts of Programs](#nuts-and-bolts-of-programs)
 
 * [Quick wokwi demo](#quick-wokwi-demo)
 * [Tools, not Rules](#tools-not-rules)
-* [Top down, bottom up, middle out](#top-down-bottom-up-middle-out)
+* [Top down, bottom up, middle out](#tools-not-rules)
 * [Test it!](#then-test-it)
-* [Psuedocode](#psuedocode)
-* [What's pseudocode?](#whats-pseudocode)
+* [Pseudocode](#pseudocode)
+* [What's pseudocode?](#pseudocode)
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
 
