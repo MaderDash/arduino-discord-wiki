@@ -1,6 +1,8 @@
 # Basics of Programming | [HOME](README.md) |
 # What is Programming?
 
+[Table of Contents](#table-of-contents)
+
 *Programming* is a means to tell a computer (or, in the case of
 the Arduino, a *microcontroller*) what to do, when to do it and how
 to do it, and if to keep on doing it 'forever' or for an amount of
@@ -51,6 +53,8 @@ human; pre-computer) language.
 
 #### Nuts and Bolts of Programs
 
+[Table of Contents](#table-of-contents)
+
 The microcontroller (`MCU`) chip itself accepts a long series of
 `1's and 0's` (ones and zeros) as its only means of communication
 (excepting analog, but that's another talk show).
@@ -69,7 +73,7 @@ Nothing else!
 ![Altair 8800 from the Computer History Museum - Wikipedia](
 https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Altair_8800_at_the_Computer_History_Museum%2C_cropped.jpg/1024px-Altair_8800_at_the_Computer_History_Museum%2C_cropped.jpg)
 
-*Assembler* *(assembly language)* would require you to use some
+*Assembler (assembly language)* would require you to use some
 kind of a typewriter&mdash;or other keyboard-like device&mdash;so
 that you could use some kind of *language*&mdash;made-up, or
 borrowed from someone else&mdash;to 'talk' to the microcontroller,
@@ -103,6 +107,11 @@ void loop() {
 }
 ```
 
+
+#### Quick wokwi demo
+
+[Table of Contents](#table-of-contents)
+
 [*Now Playing*](https://wokwi.com/projects/346503862192964178)
 &nbsp;&nbsp;*on*&nbsp;&nbsp;
 [*wokwi.com*](https://wokwi.com/)
@@ -112,6 +121,8 @@ void loop() {
 # Massive skipping of details&hellip;
 
 ## Tools, not Rules
+
+[Table of Contents](#table-of-contents)
 
 ### Top down, bottom up, middle out
 
@@ -132,7 +143,7 @@ were not (yet) typed into the computer (using some kind of
 
 
 > *If you leave a placeholder in, 'permanently', you have just
-> created a **hook**.  Do not put in hooks.  Ever.  Create them
+> created a* **hook**.  *Do not put in hooks.  Ever.  Create them
 > as required.*
 
 > *If you must, revision control has tools to help you remember
@@ -226,6 +237,8 @@ void loop() {
 *Make `haha()` do something slightly interesting.*
 
 ### Then test it.
+
+[Table of Contents](#table-of-contents)
 
 ```cpp
 
@@ -412,6 +425,8 @@ crudding it up with a `Mr. Obvious` announcement such as
 
 ## Psuedocode
 
+[Table of Contents](#table-of-contents)
+
 #### What's pseudocode?
 
 *Pseudocode is code you write without obeying real syntax rules;
@@ -426,6 +441,25 @@ its *development*.
 
 
 # DRAFT ONLY - INCOMPLETE
-#### Tue 25 Oct 17:32:33 UTC 2022 - timestamp only occasionally maintained ;)
+#### Tue 25 Oct 21:38:03 UTC 2022 - timestamp only occasionally maintained ;)
+
+# Table of Contents
+=================
+
+* [Basics of Programming | <a href="README.md">HOME</a> |](#basics-of-programming--home-)
+* [What is Programming?](#what-is-programming)
+* [Scenario: potato-chip counting machine](#scenario-potato-chip-counting-machine)
+* [What, then, is Programming?](#what-then-is-programming)
+* [Introduction for Beginners: What is a Computer Language?](#introduction-for-beginners-what-is-a-computer-language)
+* [Nuts and Bolts of Programs](#nuts-and-bolts-of-programs)
+
+* [Quick wokwi demo](#quick-wokwi-demo)
+* [Tools, not Rules](#tools-not-rules)
+* [Top down, bottom up, middle out](#top-down-bottom-up-middle-out)
+* [Test it!](#then-test-it)
+* [Psuedocode](#psuedocode)
+* [What's pseudocode?](#whats-pseudocode)
+
+<!-- Created by https://github.com/ekalinin/github-markdown-toc -->
 
 #### END.
