@@ -78,7 +78,35 @@ special instructions on what should be done if your
 *assumptions were incorrect*. ;)
 
 
+```cpp
+// #include <Arduino.h> // optional
+
+void haha() {
+    Serial.println("When I die,");
+    Serial.println("Bury me deep;");
+    Serial.println("Put two speakers at my feet.");
+    Serial.println("Put some headphones on my head,");
+    Serial.println(".. and always play the Grateful Dead.");
+}
+
+void setup() {
+    Serial.begin(9600);
+    haha();
+    delay(2200);
+}
+
+void loop() {
+    Serial.println("   Always play the Grateful Dead.");
+    delay(2200);
+}
+```
+
+[*Now Playing*](https://wokwi.com/projects/346503862192964178)
+&nbsp;&nbsp;*on*&nbsp;&nbsp;
+[*wokwi.com*](https://wokwi.com/)  &nbsp;&nbsp;&nbsp;&nbsp;*See it in action, now!*
+
+
 # DRAFT ONLY - INCOMPLETE
-#### Tue 25 Oct 14:51:23 UTC 2022 - timestamp only occasionally maintained ;)
+#### Tue 25 Oct 15:22:46 UTC 2022 - timestamp only occasionally maintained ;)
 
 #### END.
