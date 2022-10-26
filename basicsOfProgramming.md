@@ -62,7 +62,7 @@ The microcontroller (`MCU`) chip itself accepts a long series of
 `1's and 0's` (ones and zeros) as its only means of communication
 (excepting analog, but that's another talk show).
 
-The *microcode* is just those `1's and 0's` and doesn't need further
+The *machine code* is just those `1's and 0's` and doesn't need further
 support to function.
 
 *Assembly Language* is simply using those very same `1's and 0's`,
@@ -70,7 +70,7 @@ but with a cheater lookup table, so that you could use made-up words
 to represent frequently used patterns of `1's and 0's` in your
 new 'program'.
 
-*Microcode* can be programmed using just front panel switches.
+*Machine code* can be programmed using just front panel switches.
 Nothing else!
 
 ![Altair 8800 from the Computer History Museum - Wikipedia](
