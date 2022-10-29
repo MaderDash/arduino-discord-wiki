@@ -120,11 +120,11 @@ void loop() {
 
 #### Quick wokwi demo
 
-[Table of Contents](#table-of-contents "Table Of Contents")
+[Table of Contents](#table-of-contents "Table Of Contents" "Table Of Contents")
 
 [*Now Playing*](https://wokwi.com/projects/346503862192964178 "Now Playing")
 &nbsp;&nbsp;*on*&nbsp;&nbsp;
-[*wokwi.com*](https://wokwi.com/)
+[*wokwi.com*](https://wokwi.com/ "wokwi.com")
 &nbsp;&nbsp;&nbsp;&nbsp;*See it in action, now!*
 
 ### Ok but this got complicated, fast
