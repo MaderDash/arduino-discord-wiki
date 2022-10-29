@@ -8,7 +8,7 @@
 
  The Mega 2560 is extremely common. it has over three times IO then the UNO. If you need a lot of LEDs, or pins to use, the MEGA is a good choice for this.
 
-The Micro is good to use on a breadboard and is compact this has the same chip as the Leonardo.
+ The Micro is good to use on a breadboard. It is compact and has the same chip as the Leonardo.
 
 The Due also has a lot of IO, has more memory than the Mega 2560. This makes it a great starter board also.
 
