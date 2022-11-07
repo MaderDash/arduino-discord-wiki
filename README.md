@@ -12,6 +12,8 @@ Welcome to the open source wiki for the Arduino discord server. Here you can fin
 |    [LED Basics](ledResistors.md)                   |
 |    [Millis and delays](millisVsDelay.md)           |
 |    [Nine Volt Battery Basics](nineVolts.md)        |
+|    [Arduino Maker Boards](makerboards.md)          |
+|    [Arduino Buyers guide](arduinobuyersguide.md)    |
 ...
 
 <sub>v2.45.0</sub> 
